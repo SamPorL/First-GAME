@@ -1,0 +1,27 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\github\\updates 5.0\\full\\plugins\\datatableeditorutilities\\intermediate\\build\\win64\\unrealeditor\\development\\datatableeditorutilities\\module.datatableeditorutilities.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\github\\updates 5.0\\full\\intermediate\\build\\win64\\customgravityprojecteditor\\development\\unrealed\\sharedpch.unrealed.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\github\\updates 5.0\\full\\plugins\\datatableeditorutilities\\intermediate\\build\\win64\\unrealeditor\\development\\datatableeditorutilities\\definitions.datatableeditorutilities.h",
+            "c:\\github\\updates 5.0\\full\\plugins\\datatableeditorutilities\\source\\datatableeditorutilities\\private\\datatableeditorutilitiesblueprintlibrary.cpp",
+            "c:\\github\\updates 5.0\\full\\plugins\\datatableeditorutilities\\source\\datatableeditorutilities\\public\\datatableeditorutilitiesblueprintlibrary.h",
+            "c:\\github\\updates 5.0\\full\\plugins\\datatableeditorutilities\\source\\datatableeditorutilities\\public\\datatableeditorutilitiestypes.h",
+            "c:\\github\\updates 5.0\\full\\plugins\\datatableeditorutilities\\intermediate\\build\\win64\\unrealeditor\\inc\\datatableeditorutilities\\datatableeditorutilitiestypes.generated.h",
+            "c:\\github\\updates 5.0\\full\\plugins\\datatableeditorutilities\\intermediate\\build\\win64\\unrealeditor\\inc\\datatableeditorutilities\\datatableeditorutilitiesblueprintlibrary.generated.h",
+            "c:\\github\\updates 5.0\\full\\plugins\\datatableeditorutilities\\source\\datatableeditorutilities\\private\\datatableeditorutilitieshelper.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\editor\\unrealed\\classes\\factories\\datatablefactory.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\datatablefactory.generated.h",
+            "c:\\github\\updates 5.0\\full\\plugins\\datatableeditorutilities\\source\\datatableeditorutilities\\private\\datatableeditorutilitieshelper.cpp",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\editor\\unrealed\\public\\datatableeditorutils.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\editor\\unrealed\\public\\kismet2\\listenermanager.h",
+            "c:\\github\\updates 5.0\\full\\plugins\\datatableeditorutilities\\source\\datatableeditorutilities\\private\\datatableeditorutilitiesmodule.cpp",
+            "c:\\github\\updates 5.0\\full\\plugins\\datatableeditorutilities\\source\\datatableeditorutilities\\public\\datatableeditorutilitiesmodule.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
