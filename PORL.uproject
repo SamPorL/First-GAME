@@ -39,11 +39,6 @@
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/ad5ae5bca73f4a84a693394a0542fc92"
 		},
 		{
-			"Name": "DataTableEditorUtilities",
-			"Enabled": true,
-			"MarketplaceURL": "https://unrealengineresources.com/plugins"
-		},
-		{
 			"Name": "UFSM",
 			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/195d90d8cedf4b478a92036c059e2374"
