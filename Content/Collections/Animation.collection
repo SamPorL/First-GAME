@@ -5,6 +5,7 @@ ParentGuid:00000000-0000-0000-0000-000000000000
 
 /Game/CharacterCustomizer/Character_Customizer/Characters/CC_Human/AnimIk_CtrlRig.AnimIk_CtrlRig
 /Game/CharacterCustomizer/Maps/Animator.Animator
+/Game/System/Command_Console/Console.Console
 /Game/UTA/AnimSeq/InPlace_Version/AnimSeq_Traversal_Movement_Walk_Back.AnimSeq_Traversal_Movement_Walk_Back
 /Game/UTA/AnimSeq/InPlace_Version/AnimSeq_Traversal_Movement_Walk_BackLeft.AnimSeq_Traversal_Movement_Walk_BackLeft
 /Game/UTA/AnimSeq/InPlace_Version/AnimSeq_Traversal_Movement_Walk_BackRight.AnimSeq_Traversal_Movement_Walk_BackRight
